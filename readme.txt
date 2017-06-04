@@ -5,3 +5,4 @@ Add one more line.
 You are stupid.
 This is new line.
 Creating a new branch is quick AND simple.
+One more line.
